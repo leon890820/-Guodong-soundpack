@@ -1,0 +1,12 @@
+{
+    "name": "還我國動",
+    "display-name": "還我國動",
+    "avatar": "maxresdefault.jpg",
+    "avatar-dark":"w644.jpg",
+    "version": "1.0.1",
+    "description": "還我國動語音包",
+    "languages": ["python"],
+    "author": "extra",
+    "gender": "male",
+    "locale": "zh"
+}

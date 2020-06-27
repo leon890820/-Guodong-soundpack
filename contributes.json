@@ -1,0 +1,130 @@
+{
+    "contributes": [
+        {
+            "keywords": ["function", "=>", "func ", "def "],
+            "voices":[
+                "darus1.mp3",
+                "darus2.mp3",
+                "darus3.mp3"
+            ]
+        },
+        {
+            "keywords": ["=>"],
+            "voices": ["die1.mp3"]
+        },
+        {
+            "keywords": ["if"],
+            "voices": [
+                "flash1.mp3",
+                "have.mp3",
+                "hommmm1.mp3"
+				
+            ]
+        },
+        {
+            "keywords": ["for", "while"],
+            "voices": [
+                "lllllll1.mp3",
+                "lllllll2.mp3",
+                "lllllll3.mp3"
+            ]
+        },
+        {
+            "keywords": ["pass","continue"],
+            "voices": [
+                "howDareYou1.mp3",
+                "await_02.mp3",
+                "await_03.mp3"
+            ]
+        },
+        {
+            "keywords": ["or", "except", "and", "try"],
+            "voices": [
+                "ohohoh1.mp3",
+                "ohohoh2.mp3",
+                "ohohoh3.mp3",
+				"ohohoh4.mp3"
+            ]
+        },
+        {
+            "keywords": ["import", "include"],
+            "voices": [
+                "RRRRRRR1.mp3",
+                "RRRRRRR2.mp3",
+				"RRRRRRR3.mp3",
+				"RRRRRRR4.mp3",
+				"RRRRRRR5.mp3",
+				"RRRRRRR6.mp3"
+            ]
+        },
+        {
+            "keywords": ["==",">","<",">=","<=","!=","||","&&"],
+            "voices": [
+                "sword1.mp3",
+				"shhhh1.mp3",
+				"quadra1.mp3",
+				"laugh1.mp3",
+				"laugh2.mp3",
+				"laugh3.mp3",
+				"hawhawhaw1.mp3",
+				"hawhawhaw2.mp3",
+				"hawhawhaw3.mp3",
+				"hawhawhaw4.mp3",
+				"hawhawhaw5.mp3",
+				"hawhawhaw6.mp3",
+				"hawhawhaw7.mp3",
+				"hawhawhaw8.mp3",
+				"hasaki1.mp3",
+				"hasaki2.mp3",
+				"hasaki3.mp3"
+            ]
+        },
+        {
+            "keywords": ["fuck", "shit"],
+            "voices": [
+                "yasou1.mp3",
+				"yasou2.mp3",
+				"yasou3.mp3",
+				"yasou4.mp3",
+				"yasou5.mp3",
+				"yasou6.mp3"
+				
+            ]
+        },
+        {
+            "keywords": ["$time_morning"],
+            "voices": ["whowhowho.mp3"]
+        },
+        {
+            "keywords": ["$time_before_noon"],
+            "voices": [
+                "win.mp3",
+                "utimate.mp3",
+                "kimogi1.mp3",
+                "kimogi2.mp3"
+            ]
+        },
+        {
+            "keywords": ["$time_noon"],
+            "voices": ["gg.mp3"]
+        },
+        {
+            "keywords": ["$time_evening"],
+            "voices": ["howDareYou1.mp3"]
+        },
+        {
+            "keywords": ["$time_midnight"],
+            "voices": ["laugh1.mp3"]
+        },
+        {
+            "keywords": ["$time_each_hour"],
+            "voices": [
+                "hahahahahahaha1.mp3",
+                "hahahahahahaha2.mp3",
+                "hahahahahahaha3.mp3",
+                "hahahahahahaha4.mp3"
+                
+            ]
+        }
+    ]
+}
